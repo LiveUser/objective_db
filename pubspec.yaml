@@ -1,7 +1,7 @@
 name: objective_db
 description: BSON based Database
 version: 0.3.1+25
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/LiveUser/objective_db
 
 environment:
   sdk: ^3.5.1
