@@ -1,6 +1,6 @@
 name: objective_db
 description: BSON based Database
-version: 0.3.1+25
+version: 0.3.2+26
 repository: https://github.com/LiveUser/objective_db
 
 environment:
@@ -9,9 +9,9 @@ environment:
 # Add regular dependencies here.
 dependencies:
   power_plant: ^1.0.2+3
-  chromarotor: ^1.0.5
+  chromarotor: ^1.0.6
   bson: ^5.0.8
 
 dev_dependencies:
-  lints: ^4.0.0
+  lints: ^6.1.0
   test: ^1.24.0

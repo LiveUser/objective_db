@@ -1,3 +1,6 @@
+## 0.3.2+26
+- Updated dependencies
+
 ## 0.3.1+25
 - BSON is now used instead of JSON to improve performance and reduce file size
 
